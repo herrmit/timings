@@ -46,4 +46,4 @@ The result is stored in `~/.timings.txt`. After the above it look's like this:
 }
 ```
 
-BTW: The string is only a comment. In case thta makes sense to you, you can replace it by any other string. Only the int is used to sum up.
+BTW: The string is just a comment. In case it makes sense to you, you can replace it by any other string. Only the _int_ is used to sum up.
